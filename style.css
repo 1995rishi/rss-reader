@@ -1,0 +1,30 @@
+
+.v {
+	align:center;
+	color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	background-color:#ccccff;
+	width: 100%;
+	padding=5%;
+  } 
+
+ .f{
+ 	background-color: white;
+ 	color:black;
+ }
+
+ .hidden{
+ 	display: none;
+ }
+
+ div.head{
+ 	color:white;
+ 	position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+ 	width: =100%;
+ 	z-index: 2;
+ }
+
+	
